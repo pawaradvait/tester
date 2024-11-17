@@ -6,7 +6,7 @@ function App() {
     <>
       <div class="birthday-card">
         <div class="message-box">
-          <h1>Happy Birthday , Harsh</h1>
+          <h1>Happy Birthday , shivam</h1>
           <p>
             Wishing you a day filled with love, laughter, and happiness. May all
             your dreams come true!
